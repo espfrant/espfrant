@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Francisco Aragón</h1>
-<h3 align="center">A passionate software developer from Spain</h3>
+<h3 align="center">A passionate software developer from Spain.</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-- 🔭 I’m currently working on [F.M.I.T Solutions](https://fmit.io/)
+- 🔭 I’m currently working on [F.M.I.T Solutions](https://fmit.io/).
 
 - 🌱 I’m currently learning **Node.js, React, Rust and API testing tools.**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/espfrant)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/espfrant).
 
-- 💬 Ask me about **javascript, java and C**
+- 💬 Ask me about **javascript, java and C.**
 
 - 📫 How to reach me **franciscoaragonrueda@gmail.com**
 
-- ⚡ Fun fact **The first computer “bug” was an actual real-life bug**
+- ⚡ Fun fact **The first computer “bug” was an actual real-life bug.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
