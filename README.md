@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **javascript, java and C.**
 
-- 📫 How to reach me **franciscoaragonrueda@gmail.com**
+- 📫 How to reach me: [faragonrueda.tech](https://faragonrueda.tech/).
 
 - ⚡ **The first computer “bug” was an actual real-life bug.**
 
