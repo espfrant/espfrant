@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on [F.M.I.T Solutions](https://fmit.io/).
 
-- 🌱 I’m currently learning **Node.js, React, Rust and API testing tools.**
+- 🌱 I’m currently learning **Node.js, Typescript, Astro and API tools.**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/espfrant).
 
-- 💬 Ask me about **javascript, java and C.**
+- 💬 Ask me about **javascript, typescript, C and Java.**
 
 - ⚡ **The first computer “bug” was an actual real-life bug.**
 
