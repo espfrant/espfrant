@@ -1,24 +1,40 @@
-<h1 align="center">Hi 👋, I'm Francisco Aragón</h1>
-<h3 align="center">A passionate software developer from Spain.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<div align="center">
 
-- 🔭 I’m currently working on [F.M.I.T Solutions](https://fmit.io/).
+# Francisco Aragón
 
-- 🌱 I’m currently learning **Node.js, Typescript, Astro and API tools.**
+**Backend Software Engineer** · Distributed Systems · Event-Driven Architecture · Applied AI (RAG & MCP)
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/espfrant).
+Málaga, Spain · 6+ years building high-throughput microservices & cloud-native platforms
 
-- 💬 Ask me about **javascript, typescript, C and Java.**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-faragonrueda-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faragonrueda/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-franciscoaragon.com-111827?style=flat-square&logo=astro&logoColor=white)](https://franciscoaragon.com)
+[![Email](https://img.shields.io/badge/Email-franciscoaragonrueda%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:franciscoaragonrueda@gmail.com)
 
-- ⚡ **The first computer “bug” was an actual real-life bug.**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/faragonrueda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faragonrueda" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+Backend engineer focused on **TypeScript / Node.js (Fastify)** microservices, **Apache Kafka** event-driven pipelines, **SQL/NoSQL** data modeling, and **Kubernetes** deployments. Currently building local-first **Hybrid RAG** search systems and **Model Context Protocol (MCP)** integrations.
 
+### Core Stack
 
+| Area | Technologies |
+| :--- | :--- |
+| **Backend & APIs** | TypeScript · Node.js · Fastify · Java · Spring Boot · REST · Zod · Vitest / Jest |
+| **Data & Messaging** | Apache Kafka (KRaft) · PostgreSQL · Drizzle ORM · Redis · Elasticsearch · MongoDB |
+| **Applied AI & Search** | Hybrid Search (BM25 + kNN / RRF) · ONNX Local Embeddings · Tree-sitter AST · MCP Servers |
+| **Cloud & DevOps** | Docker · Kubernetes (Kustomize) · AWS · GitHub Actions · GitLab CI/CD · Linux |
 
+### Featured Projects
+
+| Project | What it is | Stack |
+| :--- | :--- | :--- |
+| **[hybrid-rag-monorepo](https://github.com/espfrant/hybrid-rag-monorepo)** | Private code & docs search platform with CQRS, AST chunking, local CPU ONNX embeddings, BM25 + kNN fusion (RRF), Kafka ingestion + DLQ, and an MCP server. | `TypeScript` `Fastify 5` `Kafka` `Elasticsearch` `ONNX` `MCP` `K8s` |
+| **[habitpulse](https://github.com/espfrant/habitpulse)** | Habit tracking & streak analytics engine built with Clean Architecture and DDD, timezone-safe streak math, and end-to-end typed REST APIs. | `TypeScript` `Fastify 5` `Drizzle ORM` `PostgreSQL` `React 19` `Docker` `K8s` |
+| **[minimalist-portfolio](https://github.com/espfrant/minimalist-portfolio)** | Bilingual (EN/ES) developer portfolio with compile-time Zod validation, command palette, WCAG 2.1 AA accessibility, and print-ready PDF export. | `Astro` `TypeScript` `Zod` `Vitest` |
+
+### Experience & Certifications
+
+- **Backend Software Engineer** @ [FMIT Technologies S.L.](https://fmit.io/) *(2019 – Present)* — High-throughput Node.js/Fastify microservices, Kafka event-driven architecture, Kubernetes, CI/CD.
+- **Backend Software Developer** @ [Everis (NTT DATA)](https://es.nttdata.com/) *(2018 – 2019)* — Enterprise Java / Spring Boot modernization, Oracle & SQL Server, integration testing.
+- **Certifications**: [Google AI Professional](https://www.credly.com/badges/c7b4adf9-fa23-406d-be16-8f171d0bf62d/linked_in_profile) · [AWS Certified Cloud Practitioner](https://www.datacamp.com/completed/statement-of-accomplishment/track/d0d08cf7849210d5b3b17ee907da7bc0f8f61234?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa) · [Claude Code 101 (Anthropic)](https://verify.skilljar.com/c/mz7kb27ugnoh)
